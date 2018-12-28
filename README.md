@@ -1,10 +1,12 @@
-# ui-challenge-1
-Creating a mobile first responsive UI template to display my knowledge of using media queries to build a mobile first wireframe.
+# Responsive-Wireframe-Template
+Using media queries to build a mobile first, responsive UI wireframe template.
 
-Resources:
-https://meyerweb.com/eric/tools/css/reset/ 
+## Getting Started
+* Fork and clone this repo to your local machine
+* From your cmd line in the root directory, run `open index.html` to view the webpage in the browser.
 
-https://www.w3schools.com/css/tryit.asp?filename=tryresponsive_mobilefirst
-
-https://css-tricks.com/centering-css-complete-guide/
+### Resources
+* https://meyerweb.com/eric/tools/css/reset/ 
+* https://www.w3schools.com/css/tryit.asp?filename=tryresponsive_mobilefirst
+* https://css-tricks.com/centering-css-complete-guide/
 
